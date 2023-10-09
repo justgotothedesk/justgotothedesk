@@ -2,6 +2,7 @@
 
 ## I am a developer who wants to develop more than yesterday. ##
 I am interested in AI, especially in Computer Vision and Natural Language Processing.
+
 I am studying Computer Science Engineering at Kyungbook National University.
 
 Skills: PYTHON / FLASK / JS / REACT
