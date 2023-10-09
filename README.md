@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi there. My name is Jin-Cheol Shin 👋 #
 
+## I am a developer who wants to develop more than yesterday. ##
+I am interested in AI, especially in Computer Vision and Natural Language Processing.
+
+Skills: PYTHON / FLASK / JS / REACT
+
+- 🌱 I’m currently learning Deep Learning, Java Spring 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgotothedesk)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=justgotothedesk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **justgotothedesk/justgotothedesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
