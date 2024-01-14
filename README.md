@@ -5,7 +5,7 @@
 
 현재 경북대학교에서 컴퓨터과학을 공부하고 있습니다.
 
-Skills: PYTHON / FLASK / JS / REACT / JAVA / Spring
+Skills: Python3 / Flask / Java / Spring
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgotothedesk)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=justgotothedesk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
