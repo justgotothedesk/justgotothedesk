@@ -1,14 +1,11 @@
-# Hi there. My name is Jin-Cheol Shin 👋 #
+# 안녕하세요. 백엔드 개발자 신진철입니다. 👋 #
 
-## I am a developer who wants to develop more than yesterday. ##
-I am interested in AI, especially in Computer Vision and Natural Language Processing.
+## 어느 곳에서도 시너지를 낼 수 있는 개발자가 되고 싶습니다. ##
+천천히 꾸준히 성장하기 위해서 1일 1커밋, 블로그 작성 등을 하고 있습니다.
 
-I am studying Computer Science Engineering at Kyungbook National University.
+현재 경북대학교에서 컴퓨터과학을 공부하고 있습니다.
 
-Skills: PYTHON / FLASK / JS / REACT
-
-- 🌱 I’m currently learning Deep Learning, Java Spring 
-
+Skills: PYTHON / FLASK / JS / REACT / JAVA / Spring
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgotothedesk)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=justgotothedesk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
