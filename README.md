@@ -9,27 +9,17 @@
 
 현재 경북대학교에서 컴퓨터과학을 공부하고 있습니다.
 
-<div align=center>
-  <h1>Tech Stacks</h1>
+<div align=left>
+  <h2>Tech Stacks</h2>
 </div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<div align=left> 
+  Python, Django
+  <br>  
+  Java, Spring
   <br>
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  MySQL, MongoDB, ElasticSearch
   <br>
-
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  EC2, RDS, GCP, Docker
   <br>
 </div>
 <br>
