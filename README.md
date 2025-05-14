@@ -9,13 +9,13 @@ http://secudaim.com
 <div align=left>
   C/C++
   <br>
-  Python, Django
+  Python
   <br>  
-  Java, Spring
+  Java, Spring Boot
   <br>
-  MySQL, MongoDB, Redis, ElasticSearch
+  MySQL, Redis
   <br>
-  EC2, RDS, GCP, Docker, K8S, Jenkins
+  Linux, Docker, Jenkins
   <br>
 </div>
 <br>
@@ -23,7 +23,7 @@ http://secudaim.com
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=justgotothedesk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjustgotothedesk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjustgotothedesk?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
